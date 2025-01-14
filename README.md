@@ -7,7 +7,7 @@ This project aims to classify fetal health status using various machine learning
 The dataset used is `fetal_health.csv`, which includes 2126 records with 21 features related to fetal health derived from cardiotocograms. The target variable, `fetal_health`, indicates the health status of the fetus.
 
 ## Features
-- `baseline_value`: FHR baseline (beats per minute)
+- `baseline_value`: FHR baseline (beats per minute) 
 - `accelerations`: Number of accelerations per second
 - `fetal_movement`: Number of fetal movements per second
 - `uterine_contractions`: Number of uterine contractions per second
