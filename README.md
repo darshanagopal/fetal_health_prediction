@@ -1,9 +1,7 @@
 # Fetal Health Classification
-
 This project aims to classify fetal health status using various machine learning models.The dataset contains several features derived from cardiotocograms, and the target variable is the fetal health status, which is categorized as 1 (Normal), 2 (Suspect), and 3 (Pathological). 
 
 ## Dataset
-
 The dataset used is `fetal_health.csv`, which includes 2126 records with 21 features related to fetal health derived from cardiotocograms. The target variable, `fetal_health`, indicates the health status of the fetus.
 
 ## Features
